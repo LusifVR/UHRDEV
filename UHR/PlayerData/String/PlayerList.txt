@@ -1,4 +1,2 @@
-{
-  "Lusif": {"rank": "TestRank", "joined": "2025-01-02"},
-  "AnotherGuy": {"rank": "Recruit", "joined": "2025-02-11"}
-}
+799038836763000842=TestRank
+123456789012345678=Recruit
