@@ -1,5 +1,7 @@
-Coco
-Lusif
-That guy
-No
-"opCount": 72,
+User: Lusif
+rank: TestRankHere
+joined: 2025-01-02
+
+User: AnotherGuy
+rank: Recruit
+joined: 2025-02-11
