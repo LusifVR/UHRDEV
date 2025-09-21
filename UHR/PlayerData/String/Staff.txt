@@ -1,3 +1,25 @@
 Lusif
+<<<<<<< HEAD
 
 Tanker
+=======
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+SkyFur
+S P A N K Y
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Smoke
+=======
+SkyFur
+>>>>>>> 80bcffbddffafa2fe86c93b6c022c9b72e68a951
+=======
+Kryoic
+hoopla
+>>>>>>> 137b70d3a077f07cb761289eca89d839da850159
+>>>>>>> 5307b5d78221b84e2899c2a145d99c10990e6aba
+>>>>>>> d289abffeb65ecc9386df35a8bbc1eda9c127b43
+>>>>>>> 63c82eb6669dcf199dd78ee9af3e69817cd836fb
