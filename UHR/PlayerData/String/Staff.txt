@@ -1,6 +1,11 @@
 Lusif
 <<<<<<< HEAD
+<<<<<<< HEAD
 Smoke
 =======
 SkyFur
 >>>>>>> 80bcffbddffafa2fe86c93b6c022c9b72e68a951
+=======
+Kryoic
+hoopla
+>>>>>>> 137b70d3a077f07cb761289eca89d839da850159
