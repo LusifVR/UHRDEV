@@ -1,2 +1,6 @@
 Lusif
+<<<<<<< HEAD
 Smoke
+=======
+SkyFur
+>>>>>>> 80bcffbddffafa2fe86c93b6c022c9b72e68a951
